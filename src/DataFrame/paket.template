@@ -1,0 +1,29 @@
+type file
+id DataFrame
+title
+    DataFrame
+owners
+    Timo Muehlhaus
+authors 
+    Timo Muehlhaus
+projectUrl
+    https://github.com/CSBiology/DataFrame
+iconUrl
+    https://raw.githubusercontent.com/CSBiology/DataFrame/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/CSBiology/DataFrame/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+language
+    F#
+copyright
+    Copyright 2017
+tags
+    data-frame data-view machine-learning
+summary
+    data frame library for .NET based on ML.NET IDataView
+description
+    data frame library for .NET based on ML.NET IDataView
+
+files
+	../../bin/DataFrame ==> lib
